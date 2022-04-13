@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Title Goes Here!</title>
+</head>
+<body>
+
+<section style="width: 100%; height: 200px; background-color: blue;">
+	Header
+</section>
+
+<section style="width: 100%; height: 300px; background-color: red;">
+	Body
+</section>
+
+<section style="width: 100%; height: 400px; background-color: yellow;">
+	Footer
+</section>
+    
+</body>
+    
+</html>
